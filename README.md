@@ -1,1 +1,1 @@
-# E-Commerce-CucumberTestNG-Project-Demo
+This MAVEN project is specially designed for various types of website UI testing. I used Selenium web driver to automate web browsers and JAVA for scripting language. All the test cases in this project are discrete and written in BDD style and then integrated with the TestNG framework. 

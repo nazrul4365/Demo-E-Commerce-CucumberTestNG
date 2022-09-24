@@ -1,0 +1,17 @@
+{
+  "baseURL" : "https://askomdch.com",
+  "driver" :
+  {
+    "remote" : false,
+    "browser" : "chrome",
+    "platform" : "windows"
+  },
+  "users" :
+  [
+    {
+      "userType" : "customer1",
+      "userName" : "demoUser1",
+      "password" : "demopwd1"
+    }
+  ]
+}
